@@ -4,7 +4,7 @@
 * Data Link: https://drive.google.com/drive/folders/1WXVB8ytNB4bOaZ97oq6OmMRyAEg95trp?usp=sharing
 
 ## Reference
-    Omar, et al., 2023, Transfer Learning for Seismic Phase Picking in Texas, TBD.
+    Omar, et al., 2024, Transfer Learning for Seismic Phase Picking in Texas, TBD.
     
 BibTeX:
 
