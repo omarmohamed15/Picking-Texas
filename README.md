@@ -1,6 +1,8 @@
 # Picking-Texas
 ## Description
 * Transfer Learning for Seismic Phase Picking in Texas.
+* Data Link: Google drive link: https://drive.google.com/drive/folders/1WXVB8ytNB4bOaZ97oq6OmMRyAEg95trp?usp=sharing
+
 
 ## How to Run?
 # 1- In this directory, we have the test file:
