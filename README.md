@@ -1,5 +1,6 @@
 # Picking-Texas
 ## Description
+* Transfer Learning for Seismic Phase Picking in Texas.
 
 ## How to Run?
 # 1- In this directory, we have the test file:
