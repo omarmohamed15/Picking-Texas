@@ -8,7 +8,7 @@
     
 BibTeX:
 
-	@article{txed,
+	@article{TFTEXAS,
 	  title={Transfer Learning for Seismic Phase Picking in Texas},
 	  author={Omar et al.},
 	  journal={TBD},
@@ -16,7 +16,7 @@ BibTeX:
 	  number={TBD},
 	  issue={TBD},
 	  pages={TBD},
-	  year={2016},
+	  year={2024},
 	  publisher={TBD}
 	}
  
