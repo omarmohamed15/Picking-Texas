@@ -5,7 +5,7 @@
 * Test IDs Link: https://drive.google.com/file/d/1rg8CEPgAq4QClCPHfnEJ-RJkS4Mrnxbo/view?usp=sharing
 
 ## Reference
-    Omar, et al., 2024, Transfer learning for seismic phase picking with significantly higher precision in faraway seismic stations.
+    Saad, O. M., Savvaidis, A., & Chen, Y. (2024). Transfer learning for seismic phase picking with significantly higher precision in faraway seismic stations. IEEE Transactions on Geoscience and Remote Sensing, 62, 1-12.
 	https://ieeexplore.ieee.org/abstract/document/10583903
     
 BibTeX:
