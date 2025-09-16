@@ -5,20 +5,19 @@
 * Test IDs Link: https://drive.google.com/file/d/1rg8CEPgAq4QClCPHfnEJ-RJkS4Mrnxbo/view?usp=sharing
 
 ## Reference
-    Omar, et al., 2024, Transfer Learning for Seismic Phase Picking in Texas, TBD.
+    Omar, et al., 2024, Transfer learning for seismic phase picking with significantly higher precision in faraway seismic stations.
+	https://ieeexplore.ieee.org/abstract/document/10583903
     
 BibTeX:
 
-	@article{TFTEXAS,
-	  title={Transfer Learning for Seismic Phase Picking in Texas},
-	  author={Omar et al.},
-	  journal={TBD},
-	  volume={TBD},
-	  number={TBD},
-	  issue={TBD},
-	  pages={TBD},
+	@article{saad2024transfer,
+	  title={Transfer learning for seismic phase picking with significantly higher precision in faraway seismic stations},
+	  author={Saad, Omar M and Savvaidis, Alexandros and Chen, Yangkang},
+	  journal={IEEE Transactions on Geoscience and Remote Sensing},
+	  volume={62},
+	  pages={1--12},
 	  year={2024},
-	  publisher={TBD}
+	  publisher={IEEE}
 	}
  
 -----------
